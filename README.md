@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sdj3959
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Android
+- 📫 How to reach me dj9099@naver.com
