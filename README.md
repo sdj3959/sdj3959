@@ -3,12 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Shin%20Dong%20June&fontSize=40&fontAlign=70&fontAlignY=40&desc=Software%20Engineer&descSize=20&descAlign=70)
 ```
 👋 웹 프로그래밍을 학습 중이며 빠르게 변화하는 기술에 적응하고, 끊임없이 발전하며 노력하는 개발자가 되고자 합니다.
-
+```
 ### 📬 Contact
 
 *   **Email:** dj9099@naver.com
 *   **Blog:** [https://velog.io/@sdj3959/posts](https://velog.io/@sdj3959/posts)
-```
 ***
 
 ### 📚 Tech Stack
