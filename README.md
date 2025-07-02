@@ -39,7 +39,13 @@
 
 ### 🛠️ Currently Learning
 
-☁️ **Git 사용법과 Github 협업** <br>
+☁️ **JAVA 17 - 다형성** <br>
+
+---
+
+### 📚 프로젝트 회고록 (Project Retrospectives)
+
+**[회고록](https://github.com/sdj3959/my-retrospectives)** `클릭하시면 회고록 저장소로 이동합니다.`
 
 ---
 
