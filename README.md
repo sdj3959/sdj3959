@@ -39,7 +39,7 @@
 
 ### 🛠️ Currently Learning
 
-☁️ **JAVA 17 - 다형성** <br>
+☁️ **Spring 기초** <br>
 
 ---
 
