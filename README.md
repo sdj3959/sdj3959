@@ -39,7 +39,7 @@
 
 ### 🛠️ Currently Learning
 
-☁️ **Mybatis, SQL 조인 문법** <br>
+☁️ **Spring Toy Project** <br>
 
 ---
 
