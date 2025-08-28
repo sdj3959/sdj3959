@@ -37,7 +37,7 @@
 
 ### 🛠️ Currently Learning
 
-☁️ **Spring Toy Project** <br>
+☁️ **React + Spring** <br>
 
 ---
 
