@@ -37,7 +37,7 @@
 
 ### 🛠️ Currently Learning
 
-☁️ **React + Spring** <br>
+☁️ **도커와 쿠버네티스** <br>
 
 ---
 
