@@ -26,18 +26,24 @@
 #### 🖥️ Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
+![sass](https://img.shields.io/badge/sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=black)
 
 #### ☁️ Infra & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![jenkins](https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
 
 
 ---
 
 ### 🛠️ Currently Learning
 
-☁️ **도커와 쿠버네티스** <br>
+☁️ **Docker / Kubernetes / Jenkins** <br>
 
 ---
 
