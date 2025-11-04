@@ -41,9 +41,15 @@
 
 ---
 
-### 🛠️ Currently Learning
+### 🛠️ Latest Learning
 
 ☁️ **Docker / Kubernetes / Jenkins** <br>
+
+---
+
+### 📚 프로젝트
+
+**[프로젝트 모음](https://github.com/sdj3959/Projects2025)** `클릭하시면 첨여 프로젝트를 모아둔 저장소로 이동합니다.`
 
 ---
 
